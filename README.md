@@ -29,7 +29,7 @@ KasPOS adalah aplikasi kasir sederhana untuk membantu UMKM mengelola transaksi d
 
 Silakan coba KasPOS terlebih dahulu untuk kegiatan usaha Anda.
 
-Jika sesuai dengan kebutuhan dan membantu operasional toko, Anda dapat melanjutkan penggunaan dengan memberikan **dukungan pengembangan seikhlasnya**.
+Jika sesuai dengan kebutuhan dan membantu operasional toko, Anda dapat melanjutkan penggunaan dengan memberikan **donasi dukungan pengembangan**.
 
 Belum sesuai dengan kebutuhan? Tidak masalah.
 
