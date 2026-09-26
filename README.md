@@ -6,6 +6,7 @@ KasPOS adalah aplikasi kasir sederhana untuk membantu UMKM mengelola transaksi d
 
 **Kelola Tokomu Layaknya Minimarket Modern, Cukup dari Smartphone.**
 
+
 ## ✨ Fitur
 
 * 🧾 Transaksi penjualan
@@ -19,11 +20,11 @@ KasPOS adalah aplikasi kasir sederhana untuk membantu UMKM mengelola transaksi d
 * 💾 Backup & restore data
 * 📱 Dapat digunakan tanpa koneksi internet
 
+
 ## 📲 Download
 
-**KasPOS v1.3.0**
-
 👉 Buka halaman [Releases](../../releases) untuk mendapatkan versi terbaru KasPOS.
+
 
 ## 🤝 Coba Dulu
 
