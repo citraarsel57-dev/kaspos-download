@@ -9,16 +9,20 @@ KasPOS adalah aplikasi kasir sederhana untuk membantu UMKM mengelola transaksi d
 
 ## ✨ Fitur
 
-* 🧾 Transaksi penjualan
-* 📦 Kelola produk
-* 📷 Scan barcode dengan kamera HP
-* 📡 Barcode scanner Bluetooth
-* 🔌 Barcode scanner USB OTG
-* 🖨️ Printer thermal Bluetooth
-* 📈 Pantau laba kotor
-* 📥 Import & export katalog
-* 💾 Backup & restore data
-* 📱 Dapat digunakan tanpa koneksi internet
+* 🧾 Pencatatan transaksi penjualan
+* 📦 Pengelolaan data produk
+* 🔎 Pencarian produk dengan cepat
+* 📷 Pemindaian barcode menggunakan kamera HP
+* 📡 Dukungan barcode scanner Bluetooth
+* 🔌 Dukungan barcode scanner melalui USB OTG
+* 🖨️ Dukungan printer thermal Bluetooth
+* 📊 Riwayat transaksi
+* 📈 Pemantauan laba kotor
+* 📥 Import dan export katalog produk
+* 💾 Backup dan restore data transaksi
+* 📒 Buku Kas Usaha
+* 💰 Pencatatan pemasukan dan pengeluaran usaha
+* 📱 Operasional offline tanpa bergantung pada kuota internet
 
 
 ## 📲 Download
