@@ -7,15 +7,6 @@ KasPOS adalah aplikasi kasir sederhana untuk membantu UMKM mengelola transaksi d
 **Kelola Tokomu Layaknya Minimarket Modern, Cukup dari Smartphone.**
 
 
-## 🎬 Video Demo
-
-📱 **Scan dengan HP → Scanner Bluetooth → Cetak Struk Thermal**
-
-[![KasPOS - Scan Barcode & Cetak Struk](https://img.youtube.com/vi/3KlHds4OMy4/maxresdefault.jpg)](https://youtube.com/shorts/3KlHds4OMy4)
-
-▶️ [Tonton video demo KasPOS di YouTube](https://youtube.com/shorts/3KlHds4OMy4)
-
-
 ## ✨ Fitur
 
 * 🧾 Pencatatan transaksi penjualan
