@@ -22,6 +22,7 @@ KasPOS adalah aplikasi kasir sederhana untuk membantu UMKM mengelola transaksi d
 * 💾 Backup dan restore data transaksi
 * 📒 Buku Kas Usaha
 * 💰 Pencatatan pemasukan dan pengeluaran usaha
+* ⏸️ Transaksi Sementara — simpan transaksi untuk dibukukan kemudian
 * 📱 Operasional offline tanpa bergantung pada kuota internet
 
 
