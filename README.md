@@ -16,6 +16,7 @@ KasPOS adalah aplikasi kasir sederhana untuk membantu UMKM mengelola transaksi d
 * 📡 Dukungan barcode scanner Bluetooth
 * 🔌 Dukungan barcode scanner melalui USB OTG
 * 🖨️ Dukungan printer thermal Bluetooth
+* 💰 Dukungan laci kasir (cash drawer) melalui printer thermal
 * 📊 Riwayat transaksi
 * 📈 Pemantauan laba kotor
 * 📥 Import dan export katalog produk
